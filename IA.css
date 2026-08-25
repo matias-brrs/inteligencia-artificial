@@ -1,0 +1,13 @@
+.body-container{
+    background-color: rgb(147, 219, 219);
+}
+footer{
+    background-color: darkkhaki;
+    color: midnightblue;
+    text-align: center;
+}
+section{
+    background: #22C1C3;
+background: linear-gradient(0deg,rgba(34, 193, 195, 1) 42%, rgba(45, 83, 253, 1) 100%);
+margin: 7%;
+}
